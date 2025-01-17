@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const InvestmentCalculator = () => {
   const [initialInvestment, setInitialInvestment] = useState(1000); // Початкова сума
